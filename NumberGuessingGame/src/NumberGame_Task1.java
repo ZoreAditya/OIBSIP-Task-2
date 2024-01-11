@@ -1,7 +1,7 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class NumberGame_Task1 {
+public class NumberGame_Task {
     public static void main(String[] args) {
 
 
